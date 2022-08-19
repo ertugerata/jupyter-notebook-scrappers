@@ -1,3 +1,5 @@
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ertugerata/jupyter-notebook-scrappers/HEAD)
+
 # Jupyter Notebook Template
 
 Use this template for creating Jupyter notebooks compatible with Gitpod and local environments.
