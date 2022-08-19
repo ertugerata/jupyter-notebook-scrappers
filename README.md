@@ -6,7 +6,7 @@ Once the Gitpod workspace has successfully loaded, it will install the most comm
 
 ## How to use
 
-- Add your notebooks in the `./notebbook` folder.
+- Add your notebooks in the `./notebook` folder.
 - Open the notebooks and run the python code.
 
 ## Default dependencies
@@ -15,11 +15,8 @@ Once the Gitpod workspace has successfully loaded, it will install the most comm
 # Base ----------------------------------------
 pandas>=1.1.4
 numpy>=1.18.5
-opencv-python>=4.1.2
-matplotlib>=3.2.2
-ipyleaflet>=0.14.0
-sympy>=1.10.1
+requests
 
 # Machine learning ----------------------------
-sklearn
+# sklearn
 ```
