@@ -4,5 +4,6 @@
 pandas>=1.1.4
 numpy>=1.18.5
 requests
+lxml
 
 # Machine learning ----------------------------
