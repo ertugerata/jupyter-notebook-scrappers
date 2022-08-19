@@ -3,5 +3,6 @@
 # Base ----------------------------------------
 pandas
 numpy
+requests
 
 # Machine learning ----------------------------
